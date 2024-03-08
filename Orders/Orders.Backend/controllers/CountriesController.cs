@@ -26,7 +26,7 @@ namespace Orders.Backend.controllers
         [HttpGet]
         public async Task<IActionResult> GetAsync()
         {
-            return Ok(_context.Countries.ToListAsync());
+            return Ok(await _context.Countries.ToListAsync());
         }
 
         [HttpGet("{id}")]
@@ -40,7 +40,7 @@ namespace Orders.Backend.controllers
             return Ok(country);
         }
 
-        [HttpPost]
+        [HttpPut]
         public async Task<IActionResult> PutAsync(Country country)
         {
             _context.Update(country);
