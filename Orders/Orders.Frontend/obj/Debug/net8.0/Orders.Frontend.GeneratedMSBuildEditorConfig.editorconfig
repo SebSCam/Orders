@@ -26,6 +26,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/code/Orders/Orders/Orders.Frontend/Pages/Categories/CategoriesIndex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yaWVzSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/Orders/Orders/Orders.Frontend/Pages/Categories/CategoryCreate.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUNyZWF0ZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/Orders/Orders/Orders.Frontend/Pages/Categories/CategoryEdit.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1xDYXRlZ29yeUVkaXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/code/Orders/Orders/Orders.Frontend/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,16 +54,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlFZGl0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/code/Orders/Orders/Orders.Frontend/Pages/Countries/CountryForm.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyaWVzXENvdW50cnlGb3JtLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/code/Orders/Orders/Orders.Frontend/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/code/Orders/Orders/Orders.Frontend/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/code/Orders/Orders/Orders.Frontend/Shared/FormWithName.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvcm1XaXRoTmFtZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/code/Orders/Orders/Orders.Frontend/Shared/GenericList.razor]
