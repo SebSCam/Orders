@@ -23,12 +23,12 @@ namespace Orders.Backend.UnitsOfWork.implementations
             return await _repository.DeleteAsync(id);
         }
 
-        public async Task<ActionResponse<IEnumerable<T>>> GetAsync()
+        public virtual async Task<ActionResponse<IEnumerable<T>>> GetAsync()
         {
             return await _repository.GetAsync();
         }
 
-        public async Task<ActionResponse<T>> GetAsync(int id)
+        public virtual async Task<ActionResponse<T>> GetAsync(int id)
         {
             return await _repository.GetAsync(id);
         }
